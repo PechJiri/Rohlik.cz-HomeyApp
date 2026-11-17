@@ -72,6 +72,9 @@
         "title": {
           "en": "Delivery ETA !{{is|is not}}"
         },
+        "titleFormatted": {
+          "en": "Delivery ETA !{{is|is not}} [[operator]] [[minutes]] minutes"
+        },
         "args": [
           {
             "name": "device",
@@ -119,6 +122,9 @@
         "id": "delivery_status_is",
         "title": {
           "en": "Delivery status !{{is|is not}}"
+        },
+        "titleFormatted": {
+          "en": "Delivery status !{{is|is not}} [[status]]"
         },
         "args": [
           {
@@ -459,6 +465,9 @@
       "class": "other",
       "platforms": [
         "local"
+      ],
+      "connectivity": [
+        "cloud"
       ],
       "capabilities": [
         "alarm_slots_available",

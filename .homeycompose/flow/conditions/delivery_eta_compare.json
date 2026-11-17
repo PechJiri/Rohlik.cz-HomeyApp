@@ -3,6 +3,9 @@
     "title": {
         "en": "Delivery ETA !{{is|is not}}"
     },
+    "titleFormatted": {
+        "en": "Delivery ETA !{{is|is not}} [[operator]] [[minutes]] minutes"
+    },
     "args": [
         {
             "name": "device",

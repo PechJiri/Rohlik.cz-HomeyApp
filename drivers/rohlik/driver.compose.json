@@ -6,6 +6,9 @@
     "platforms": [
         "local"
     ],
+    "connectivity": [
+        "cloud"
+    ],
     "capabilities": [
         "alarm_slots_available",
         "delivery_express",
